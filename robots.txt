@@ -1,0 +1,6 @@
+# Allow all search engine crawlers complete access to index the resume
+User-agent: *
+Allow: /
+
+# Direct crawlers to your sitemap (Optional but recommended for SEO)
+Sitemap: https://noodles1102.github.io/sitemap.xml
